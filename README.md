@@ -1,5 +1,6 @@
 # Power_bi_dashboard
 Entertainment Content Overview Dashboard
+
  Project Overview
 
 This project presents an interactive Power BI dashboard for analyzing entertainment content data, including Movies and TV Shows. The dashboard provides insights into content distribution, genres, IMDb ratings, release trends, votes, and geographical availability.
